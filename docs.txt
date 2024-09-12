@@ -1,0 +1,15 @@
+Copy a repositry from the remote server
+git clone <repo-url>
+
+track down the file
+git add <filename || foldername>
+
+commit the changes you made
+git commit -m "<message>"
+
+pushing the changes over the repo
+git push
+
+
+Initialize a empty repositry
+git init
